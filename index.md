@@ -39,6 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Live template 
 
+console.log/warn  quick start tips
 ```markdown
 console.log('$var$',$stringvar$);$END$
 ```
