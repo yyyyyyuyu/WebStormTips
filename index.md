@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ```markdown
-# console.log/warn  quick start tips
+# console.log/warn  quick start tips:
 
 console.log('$var$',$stringvar$);$END$
 ```
