@@ -39,8 +39,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Live template 
 
-# console.log/warn  quick start tips
+
 ```markdown
+# console.log/warn  quick start tips
+
 console.log('$var$',$stringvar$);$END$
 ```
 ![image](https://user-images.githubusercontent.com/50262027/136941729-7aa653f1-352c-4c74-b400-9da2e1733791.png)
